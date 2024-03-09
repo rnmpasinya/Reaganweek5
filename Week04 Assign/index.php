@@ -12,7 +12,9 @@
         $sth->bindValue(':ItemNum', $ItemNum, PDO::PARAM_INT);
         $sth->execute();
     }
-?><!DOCTYPE HTML>
+?>
+
+<!DOCTYPE HTML>
 <html lang="ja">
 <head>
     <title>Todo List</title>
