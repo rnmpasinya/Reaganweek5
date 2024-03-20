@@ -48,7 +48,7 @@
                         <input type="hidden" name="delete" value="true">
                     </form>
                 </td>
-            </tr>
+            </tr> 
 <?php
     }
 ?>
